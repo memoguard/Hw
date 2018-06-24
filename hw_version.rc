@@ -1,0 +1,24 @@
+1 VERSIONINFO
+FILEVERSION 2018,06,24,1809
+PRODUCTVERSION 2018,06,24,1809
+FILEOS 0x00000004L
+FILETYPE VFT_APP
+{
+ BLOCK "VarFileInfo"
+ {
+  VALUE "Translation", 0x409, 0x4E4
+ }
+
+ BLOCK "StringFileInfo"
+ {
+  BLOCK "040904E4"
+  {
+   VALUE "CompanyName", "NickySoft\0"
+   VALUE "FileVersion", "2018.06.24.1809\0"
+   VALUE "LegalCopyright", "Copyright NickySoft.com 1997-2018\0"
+   VALUE "ProductName", "Hello World\0"
+   VALUE "ProductVersion", "2018.06.24.1809\0"
+   VALUE "Homepage", "http://www.nickysoft.com\0"
+  }
+ }
+}
